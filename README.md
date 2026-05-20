@@ -1,3 +1,5 @@
+<img height="250" alt="splito" src="https://github.com/user-attachments/assets/c2fe6021-9c55-4142-9f09-ba7a28dc1f4e" />
+
 # splito — Orienteering Results Viewer
 
 A zero-dependency CLI tool that reads [IOF XML 3.0](https://orienteering.sport/iof/it/data-standard-3-0/) result exports (e.g. from MeOS) and generates self-contained UTF-8 HTML reports with:
